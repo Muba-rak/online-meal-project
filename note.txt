@@ -1,0 +1,20 @@
+CREATE A REACT APP
+vite, npm create vite@latest mealproject -- --template react
+Clean ups
+
+
+Install some packages
+bootstrap, react-bootstrap
+react-loader-spinner
+react-player
+react-router-dom
+
+create a basic folder structure
+components - banner, header, footer, serachform, meallist
+pages - Home, about, singlemeal and error
+hooks
+
+set up our basic react router
+set up a template 
+
+set up bootstrap and react-bootstrap
